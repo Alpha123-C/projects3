@@ -123,3 +123,71 @@ font-size: medium;
     transition:all 0.5s ease-in-out 0s ;
     outline: none;
 }
+.sec3{
+width: 100%;
+height: 750px;
+margin: 0 auto;
+text-align: center;
+
+
+}
+.d1 h1{
+    font-size: 40px;
+    line-height: 10px;
+}
+.d1 p{
+    color: gray;
+}
+.service{
+ width:100%;
+ margin: 0 auto;
+
+}
+.src1,.src2{
+width:100%;
+overflow: hidden;
+
+}
+.src1 div,.src2 div{
+    width: 30%;
+    float: left;
+    padding: 5px;
+    margin: 0 auto;
+}
+.src1 div:hover{
+    background-color:#8293ff ;
+    color: white;
+}
+.src2 div:hover{
+    background-color:#8293ff ;
+    color: white;
+}
+ .sec4{
+    width: 100%;
+    height: 350px;
+    background-color: #8293ff;
+    
+ }
+ .sec4 div{
+    float: left;
+    width: 20%;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top:100px;
+    left: 150px;
+    
+ }
+ .u{
+    color: white;
+    font-weight: bolder;
+ }
+ .w{
+    color: white;
+    font-size: 10px;
+ }
+ .sec5{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+ }
